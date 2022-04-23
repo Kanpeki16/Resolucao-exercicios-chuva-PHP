@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\War",
+    "\\src\\War\\GameManager",
+    "\\src\\War\\GamePlay",
+    "\\src\\War\\GamePlay\\Country"
+  ],
+  "SelectedNode": "\\src\\War\\GamePlay\\Country\\ComputerPlayerCountry.php",
+  "PreviewInSolutionExplorer": false
+}
